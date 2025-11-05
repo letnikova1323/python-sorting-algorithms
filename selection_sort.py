@@ -30,4 +30,3 @@ def selection_sort_phones(phones):
         phones[i], phones[min_idx] = phones[min_idx], phones[i]
 
 
-    print("Отсортированный список:", phones)
